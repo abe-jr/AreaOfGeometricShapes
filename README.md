@@ -1,2 +1,3 @@
-# AreaOfGeometricShapes
-In this C++ program the area of geometric shapes (circle, rectangle, and triangle) is calculated easily through classes by asking the user a choice that which shape he wants to deal with, the code is:
+# Area Of Geometric Shapes
+
+The functions with relative comments are mentioned in the above code, the user is first asked to enter the arguments and then a menu appears offering the area of shape the user needs to select.
